@@ -23,7 +23,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/css3.svg">
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/sass.svg">
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/javascript.svg">
-<img align="left" alt="sql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/sql.svg">
+<img align="left" alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/postgresql.svg">
 <br>
 
 ### I also use these on a daily basis!
