@@ -1,8 +1,8 @@
 
-## 👋 Hey there, I'm Elvin and I'm an IT engineer!📚
+## 👋 Hey there, I'm Elvin and I'm an Software engineer!📚
 
 ### Facts about me: 🍏
- - 🔓 I really enjoy Open Source software 
+ - :unlock: I really enjoy Open Source software 
  - :bowl_with_spoon: I actually good at cooking
  - :chess_pawn: I love play chess
 
