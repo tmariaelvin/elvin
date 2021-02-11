@@ -7,17 +7,22 @@
 
 
 ### My development tools!⌨
-<img alt="Visual Studio Code" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg"> I use only Visual Studio Code! I like to focus on the actual code, and not on the editor.
-<br>
+<img alt="Visual Studio Code" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg">
+<img alt="intellijidea" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/intellijidea.svg">
+<img alt="androidstudio" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/androidstudio.svg">
+<img alt="xcode" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/xcode.svg">
+<img alt="github" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg">
+
 
 ### My coding languages of choice!
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/cplusplus.svg">
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg">
+<img align="left" alt="swift" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/swift.svg">
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/html5.svg">
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/css3.svg">
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/sass.svg">
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/javascript.svg">
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/cplusplus.svg">
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg">
-<img align="left" alt="Python3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/python.svg">
+<img align="left" alt="sql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/sql.svg">
 <br>
 
 ### I also use these on a daily basis!
