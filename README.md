@@ -1,5 +1,4 @@
-# elvin
-About Me
+
 ## 👋 Hey there, I'm Elvin and I'm an IT engineer!📚
 
 ### Facts about me: 🍏
@@ -42,11 +41,11 @@ About Me
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img alt="Scla's GitHub Stats" src="https://read-me-stats-sclafus.vercel.app/api?username=Sclafus&show_icons=true&hide_border=true&theme=material-palenight&count_private=true">
+  <img alt="Elvi's GitHub Stats" src="https://read-me-stats-tmariaelvin.vercel.app/api?username=tmariaelvin&show_icons=true&hide_border=true&theme=material-palenight&count_private=true">
 
 </details>
 
-[linkedin]: https://www.linkedin.com/in/alessandro-sclafani-44b331144/
-[instagram]: https://www.instagram.com/sclafus/
-[telegram]: https://www.t.me/sclafus
+[linkedin]: 
+[instagram]: 
+[telegram]: 
 
