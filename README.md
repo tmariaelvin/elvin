@@ -2,8 +2,9 @@
 ## 👋 Hey there, I'm Elvin and I'm an IT engineer!📚
 
 ### Facts about me: 🍏
- - 🔓I really enjoy Open Source software 
- - 🖥I actually know a lot about hardware 
+ - 🔓 I really enjoy Open Source software 
+ - :bowl_with_spoon: I actually good at cooking
+ - :chess_pawn: I love play chess
 
 
 ### My development tools!⌨
@@ -12,7 +13,7 @@
 <img alt="androidstudio" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/androidstudio.svg">
 <img alt="xcode" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/xcode.svg">
 <img alt="github" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg">
-
+<br>
 
 ### My coding languages of choice!
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/cplusplus.svg">
