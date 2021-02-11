@@ -35,8 +35,8 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img alt="Elvi's GitHub Stats" src="https://read-me-stats-tmariaelvin.vercel.app/api?username=tmariaelvin&show_icons=true&hide_border=true&theme=material-palenight&count_private=true">
-
+  <img alt="Elvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tmariaelvin&show_icons=true&hide_border=true&theme=material-palenight&count_private=true">
+  
 </details>
 
 
