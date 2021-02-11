@@ -8,11 +8,11 @@
 
 
 ### My development tools!⌨
-<img alt="Visual Studio Code" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg">
-<img alt="intellijidea" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/intellijidea.svg">
-<img alt="androidstudio" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/androidstudio.svg">
-<img alt="xcode" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/xcode.svg">
-<img alt="github" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg">
+<img align="left" alt="Visual Studio Code" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg">
+<img align="left" alt="intellijidea" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/intellijidea.svg">
+<img align="left" alt="androidstudio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/androidstudio.svg">
+<img align="left" alt="xcode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/xcode.svg">
+<img align="left" alt="github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg">
 <br>
 
 ### My coding languages of choice!
@@ -27,14 +27,11 @@
 <br>
 
 ### I also use these on a daily basis!
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linux.svg">
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/docker.svg">
-<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/kubernetes.svg">
-<img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/numpy.svg">
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/pandas.svg">
+<img align="left" alt="android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linux.svg">
+<img align="left" alt="windows" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/docker.svg">
+<img align="left" alt="apple" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/kubernetes.svg">
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/git.svg">
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg">
-<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/raspberrypi.svg">
 <br>
 <br>
 
