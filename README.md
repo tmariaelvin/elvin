@@ -6,12 +6,6 @@
  - 🖥I actually know a lot about hardware 
 
 
-### Get in touch with me! 🤝
-[<img align="left" target="_blank" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/telegram.svg">][telegram]
-[<img align="left" target="_blank" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
-[<img align="left" target="_blank" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-<br>
-
 ### My development tools!⌨
 <img alt="Visual Studio Code" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg"> I use only Visual Studio Code! I like to focus on the actual code, and not on the editor.
 <br>
@@ -45,7 +39,4 @@
 
 </details>
 
-[linkedin]: 
-[instagram]: 
-[telegram]: 
 
