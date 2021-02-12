@@ -5,7 +5,7 @@
  - 💻 I code every day
  - :unlock: I really enjoy Open Source software 
  - :bowl_with_spoon: I actually good at cooking
- - :chess_pawn: I love play chess
+ - :chess_pawn: I play chess
 
 
 ### My development tools!⌨
@@ -22,15 +22,14 @@
 <img align="left" alt="swift" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/swift.svg">
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/html5.svg">
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/css3.svg">
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/sass.svg">
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/javascript.svg">
 <img align="left" alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/postgresql.svg">
 <br>
 
 ### I also use these on a daily basis!
-<img align="left" alt="android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linux.svg">
-<img align="left" alt="windows" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/docker.svg">
-<img align="left" alt="apple" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/kubernetes.svg">
+<img align="left" alt="android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/android.svg">
+<img align="left" alt="windows" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/windows.svg">
+<img align="left" alt="apple" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/apple.svg">
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/git.svg">
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg">
 <br>
